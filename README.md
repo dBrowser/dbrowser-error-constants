@@ -1,6 +1,6 @@
-# Beaker error constants
+# DBrowserX error constants
 
-Module containing all of the errors used by Beaker, or its submodules.
+Module containing all of the errors used by DBrowserX, or its submodules.
 
 ```
 NotFoundError

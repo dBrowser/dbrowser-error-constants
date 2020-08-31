@@ -1,22 +1,22 @@
 {
-  "name": "beaker-error-constants",
-  "version": "1.4.0",
-  "description": "Module containing the errors used by beaker and its submodules",
+  "name": "dbrowser-error-constants",
+  "version": "1.0.0",
+  "description": "Module containing the errors used by dbrowserx and its submodules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beakerbrowser/beaker-error-constants.git"
+    "url": "git+https://github.com/dbrowser/dbrowser-error-constants.git"
   },
   "keywords": [
-    "beaker"
+    "dbrowserx"
   ],
   "author": "Paul Frazee <pfrazee@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/beakerbrowser/beaker-error-constants/issues"
+    "url": "https://github.com/dbrowser/dbrowser-error-constants/issues"
   },
-  "homepage": "https://github.com/beakerbrowser/beaker-error-constants#readme"
+  "homepage": "https://github.com/dbrowser/dbrowser-error-constants#readme"
 }

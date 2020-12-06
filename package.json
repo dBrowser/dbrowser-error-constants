@@ -1,7 +1,7 @@
 {
   "name": "dbrowser-error-constants",
   "version": "1.0.0",
-  "description": "Module containing the errors used by dbrowserx and its submodules",
+  "description": "Module containing the errors used by dBrowser and its submodules",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

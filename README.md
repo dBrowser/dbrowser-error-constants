@@ -1,6 +1,6 @@
-# DBrowserX error constants
+# dBrowser Error Constants
 
-Module containing all of the errors used by DBrowserX, or its submodules.
+Module containing all of the errors used by dBrowser, or its submodules.
 
 ```
 NotFoundError
